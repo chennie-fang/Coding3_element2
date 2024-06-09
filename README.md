@@ -24,11 +24,11 @@ In the second notebook（02_creat_cnn_model.ipynb） I made a model using CNN wh
 ### 3. use deepdream to make different images
 code from: https://www.tensorflow.org/tutorials/generative/deepdream?hl=zh-cn
 
-In the third notebook (03_deepdream.ipynb) I used deepdream's code where I changed the weights of the pre-trained model, but the actual changes didn't vary much. I used a image of a baby and then I changed the number of different layers here and each layer outputs a different result.
+In the third notebook (03_deepdream.ipynb) I used Deepdream's code where I changed the weights of the pre-trained model, but the actual changes didn't vary much. I used a image of a baby and then I changed the number of different layers here and each layer outputs a different result.
 
 ![Image](https://i.pinimg.com/736x/45/ec/27/45ec27f39887a894e0ac61ea067df534.jpg)
 ![Image](https://i.pinimg.com/736x/0e/33/19/0e3319181c0193de32e2cf87659da34a.jpg)
-
+![Image](blob:https://www.pinterest.com/ce5adbc5-d012-4ccb-a9f0-4bb08b5d1553)
 
 ### 4. Use StableDiffion interpolation for animation
 code from: coding3-week3-03_StableDiffusion_animations.ipynb   and
