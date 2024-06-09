@@ -4,7 +4,8 @@ video link: https://studio.youtube.com/video/gJ6S8fIM1_w/edit
 This project is based on Deepdream.
 ## Topic
 Let me start by introducing my topic, In China there are some families who prefer sons who will take a medicine that can change the gender of the baby when they get pregnant, they think it will make the girl in the womb into a boy, but in fact it will only give birth to a girl who will have both male and female features.
-![Example Image](https://i.pinimg.com/564x/c8/03/18/c8031825353fcd0c288790414b73a5a3.jpg)
+
+![Example Image](https://i.pinimg.com/564x/fb/43/5f/fb435f04e3351bfff69445eb60872b9f.jpg)
 
 sea hare is a representative hermaphrodite, so I wanted to combine baby and sea hare, so that baby would have the features of a sea hare. In this way to satirise son-preference family.
 Then I found Deepdream, which generates images that would be similar to the texture of the sea hare, So I want to replace the texture in deepdream with the sea hare texture.
