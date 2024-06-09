@@ -19,7 +19,7 @@ For the first notebook (01_download_images.ipynb) I used the code from week 3 to
 ### 2. creat a model and save weights
 code from: https://www.tensorflow.org/api_docs/python/tf/keras/Model#compute_metrics
 
-In the second notebook（02_creat_cnn_model.ipynb） I made a model using CNN which got the features of the sea hare by recognising and classifying it. I want to use this model to replace the pre-trained model in deepdream. But I found that if I replace the pre-trained model in deepdream, the generated image will be full of noise, so I replaced the weights of the pre-trained model and I saved the weights of this model here.
+In the second notebook（02_creat_cnn_model.ipynb） I made a model using CNN which got the features of the sea hare by recognising and classifying it. I want to use this model to replace the pre-trained model in deepdream. But I found that if I replace the pre-trained model in deepdream, the generated image will be full of noise, so I replaced the weights of the pre-trained model and I saved the weights of this model（sea_hera_cnn1.weight.h5）.
 
 ### 3. use deepdream to make different images
 code from: https://www.tensorflow.org/tutorials/generative/deepdream?hl=zh-cn
