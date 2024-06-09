@@ -28,6 +28,8 @@ In the third notebook (03_deepdream.ipynb) I used Deepdream's code where I chang
 
 ![Image](https://i.pinimg.com/736x/45/ec/27/45ec27f39887a894e0ac61ea067df534.jpg)
 ![Image](https://i.pinimg.com/736x/0e/33/19/0e3319181c0193de32e2cf87659da34a.jpg)
+
+These images can be found in the saved_image folder.
 ![Image](https://i.pinimg.com/736x/07/4e/5d/074e5d95dbc255f49447f317becf70bc.jpg)
 
 ### 4. Use StableDiffion interpolation for animation
