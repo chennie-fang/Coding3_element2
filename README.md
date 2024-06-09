@@ -17,6 +17,7 @@ In the second notebook（02_creat_cnn_model.ipynb） I made a model using CNN wh
 In the third notebook (03_deepdream.ipynb) I used deepdream's code where I changed the weights of the pre-trained model, but the actual changes didn't vary much. I used a image of a baby and then I changed the number of different layers here and each layer outputs a different result.
 
 The fourth notebook is in this folder, I used the code from the third notebook in the week 7 file and wanted to animate the change from baby to sea hare using stable diffusion. The animation required interpolation between the two images, so I also combined the code from this site. The final animation generated looks like this.
+![Example GIF]([https://example.com/path/to/animation.gif](https://i.pinimg.com/originals/1e/a8/6d/1ea86d0ef0a96524d03f38f48b579814.gif))
 
 
 
