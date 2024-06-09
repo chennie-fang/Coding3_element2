@@ -1,5 +1,5 @@
 # Coding3_element2
-video link: https://studio.youtube.com/video/gJ6S8fIM1_w/edit
+video link: https://youtu.be/gJ6S8fIM1_w
 
 This project is based on Deepdream.
 # Project Name: Mutant
