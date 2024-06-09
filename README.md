@@ -34,7 +34,7 @@ Because there are ten layers in Deepdream's pre-trained model InceptionV3 (mixed
 ![Image](https://i.pinimg.com/736x/07/4e/5d/074e5d95dbc255f49447f317becf70bc.jpg)
 
 ### 4. Use StableDiffion interpolation for animation
-code from: coding3-week3-03_StableDiffusion_animations.ipynb   and
+code from: coding3-week3-03_StableDiffusion_animations.ipynb  
 https://huggingface.co/learn/cookbook/stable_diffusion_interpolation#example-3-interpolation-between-multiple-prompts
 
 The fourth notebook (04_StableDiffusion_animations.ipynb) is in 04_animation folder, I used the code from the third notebook in the week 7 file and wanted to animate the change from baby to sea hare using stable diffusion. The animation required interpolation between the two images. I used the ten images generated in the third notebook and inserted six interpolated images between the two.
