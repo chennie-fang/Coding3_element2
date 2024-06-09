@@ -24,12 +24,12 @@ In the second notebook（02_creat_cnn_model.ipynb） I made a model using CNN wh
 ### 3. use deepdream to make different images
 code from: https://www.tensorflow.org/tutorials/generative/deepdream?hl=zh-cn
 
-In the third notebook (03_deepdream.ipynb) I used Deepdream's code where I changed the weights of the pre-trained model, but the actual changes didn't vary much. I used a image of a baby and then I changed the number of different layers here and each layer outputs a different result.
+In the third notebook (03_deepdream.ipynb) I used Deepdream's code where I changed the weights of the pre-trained model, but the actual changes didn't vary much. I used a image of a baby and then I changed the number of different layers and each layer outputs a different result.
 
 ![Image](https://i.pinimg.com/736x/45/ec/27/45ec27f39887a894e0ac61ea067df534.jpg)
 ![Image](https://i.pinimg.com/736x/0e/33/19/0e3319181c0193de32e2cf87659da34a.jpg)
 
-These images can be found in the saved_image folder.
+Because there are ten layers in Deepdream's pre-trained model InceptionV3 (mixed1, mixed2 ....) , I generated ten images with each of these ten layers. These images can be found in the saved_image folder.
 
 ![Image](https://i.pinimg.com/736x/07/4e/5d/074e5d95dbc255f49447f317becf70bc.jpg)
 
@@ -37,7 +37,11 @@ These images can be found in the saved_image folder.
 code from: coding3-week3-03_StableDiffusion_animations.ipynb   and
 https://huggingface.co/learn/cookbook/stable_diffusion_interpolation#example-3-interpolation-between-multiple-prompts
 
-The fourth notebook (04_StableDiffusion_animations.ipynb) is in 04_animation folder, I used the code from the third notebook in the week 7 file and wanted to animate the change from baby to sea hare using stable diffusion. The animation required interpolation between the two images, so I also combined the code from this site. The final animation generated looks like this.
+The fourth notebook (04_StableDiffusion_animations.ipynb) is in 04_animation folder, I used the code from the third notebook in the week 7 file and wanted to animate the change from baby to sea hare using stable diffusion. The animation required interpolation between the two images. I used the ten images generated in the third notebook and inserted six interpolated images between the two.
+
+![Image](https://i.pinimg.com/originals/05/6c/33/056c335010675e7725e7bfdaaac7dc58.jpg)
+
+Finally make a video using these photos. Here are the gif.
 https://i.pinimg.com/originals/1e/a8/6d/1ea86d0ef0a96524d03f38f48b579814.gif
 
 
