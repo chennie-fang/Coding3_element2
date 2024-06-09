@@ -1,7 +1,7 @@
 # Coding3_element2
 video link: https://youtu.be/gJ6S8fIM1_w
 
-This project is based on Deepdream.
+This project is based on Deepdream,CNN and StabelDiffusion.
 # Project Name: Mutant
 ## Topic
 Let me start by introducing my topic, In China there are some families who prefer sons who will take a medicine that can change the gender of the baby when they get pregnant, they think it will make the girl in the womb into a boy, but in fact it will only give birth to a girl who will have both male and female features.
@@ -33,7 +33,7 @@ Because there are ten layers in Deepdream's pre-trained model InceptionV3 (mixed
 
 ![Image](https://i.pinimg.com/736x/07/4e/5d/074e5d95dbc255f49447f317becf70bc.jpg)
 
-### 4. Use StableDiffion interpolation for animation
+### 4. Use StableDiffusion interpolation for animation
 code from: coding3-week3-03_StableDiffusion_animations.ipynb  
 https://huggingface.co/learn/cookbook/stable_diffusion_interpolation#example-3-interpolation-between-multiple-prompts
 
