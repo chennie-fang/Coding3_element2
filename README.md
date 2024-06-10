@@ -30,6 +30,7 @@ In the third notebook (03_deepdream.ipynb) I used Deepdream's code where I chang
 
 ![Image](https://i.pinimg.com/736x/45/ec/27/45ec27f39887a894e0ac61ea067df534.jpg)
 ![Image](https://i.pinimg.com/736x/0e/33/19/0e3319181c0193de32e2cf87659da34a.jpg)
+![Image](https://i.pinimg.com/736x/34/21/e7/3421e7dfc2e61dc2f4612f60a3e811a1.jpg)
 
 Because there are ten layers in Deepdream's pre-trained model InceptionV3 (mixed1, mixed2 ....) , I generated ten images with each of these ten layers. These images can be found in the saved_image folder.
 
