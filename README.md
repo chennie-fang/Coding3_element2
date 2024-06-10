@@ -41,7 +41,7 @@ https://huggingface.co/learn/cookbook/stable_diffusion_interpolation#example-3-i
 
 The fourth notebook (04_StableDiffusion_animations.ipynb) is in 04_animation folder, I used the code from the third notebook in the week 7 file and wanted to animate the change from baby to sea hare using stable diffusion. The animation required interpolation between the two images. I used the ten images generated in the third notebook and inserted six interpolated images between the two.
 
-![Image](https://i.pinimg.com/originals/05/6c/33/056c335010675e7725e7bfdaaac7dc58.jpg)
+![Image](https://i.pinimg.com/736x/05/6c/33/056c335010675e7725e7bfdaaac7dc58.jpg)
 
 Finally make a video using these photos. Here are the gif.
 https://i.pinimg.com/originals/1e/a8/6d/1ea86d0ef0a96524d03f38f48b579814.gif
