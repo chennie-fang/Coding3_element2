@@ -2,6 +2,9 @@
 video link: https://youtu.be/gJ6S8fIM1_w
 
 This project is based on Deepdream,CNN and StabelDiffusion.
+
+I have used Chatgpt and commented in the code, for example in the notebook 04_StableDiffusion_animations.ipynb, I wanted to use the code for interpolating images using stable diffusion, but the code in the website huggingface is very complex, I had chatgpt make these code to do an analysis and pick out the parts I need to use.
+
 # Project Name: Mutant
 ## Topic
 Let me start by introducing my topic!
